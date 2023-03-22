@@ -2,3 +2,13 @@ wow this file is emply!!! why?
 
 right now i´m made one commit and this is the second commit,
 i´m writring this file in visual studio code and in english.
+
+t seems like you are asking why the file is empty. 
+It could be that you have not added any content to the file. 
+If you have made a commit and this is the second commit, then 
+it is possible that you have not added any content to the file 
+before making the commit. You can check if there is any content 
+in the file by opening it in Visual Studio Code and looking at 
+the contents of the file. If there is no content in the file, 
+then you can add some text to it and make another commit. 
+Let me know if you have any other questions!
