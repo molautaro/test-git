@@ -1,0 +1,3 @@
+OK en este archivo vamos a probar que onda con los reset y rm
+
+para ello añadires este archivo al git 
