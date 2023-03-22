@@ -3,7 +3,7 @@ wow this file is emply!!! why?
 right now i´m made one commit and this is the second commit,
 i´m writring this file in visual studio code and in english.
 
-t seems like you are asking why the file is empty. 
+It seems like you are asking why the file is empty. 
 It could be that you have not added any content to the file. 
 If you have made a commit and this is the second commit, then 
 it is possible that you have not added any content to the file 
@@ -12,3 +12,13 @@ in the file by opening it in Visual Studio Code and looking at
 the contents of the file. If there is no content in the file, 
 then you can add some text to it and make another commit. 
 Let me know if you have any other questions!
+
+----------
+
+Zsh is a Unix shell that can be used as an interactive login 
+shell and as a command interpreter for shell scripting. 
+It is an extended version of Bourne shell (sh) with many 
+improvements and customization options1. Zsh has many features 
+such as spelling correction, path expansion, command history, 
+and more2. It is also known for its extensive customization 
+options through plugins and themes3.
